@@ -1,3 +1,3 @@
-# unicomputersciencebs
+# randompractice
 
-everything I did during undergrad at UNI
+somethings i did to practice
